@@ -1,0 +1,8 @@
+A formantação será para o CSS e a estruturação é para o Novo HTML 5
+
+Algumas tags foram criadas para o novo HTML 5
+
+Dentre elas: Main, Header, footer, nav, section, aside, article, video.
+
+Outras não se usa mais como: Basefont, big, center, font, strike, tt, frame, frameset.
+

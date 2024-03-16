@@ -1,0 +1,6 @@
+web scraping é uma ferramenta que se usa dentro do site, indexa os conteúdos para gravar, colocar e acessar para outros banco de dados/sites.
+
+Podemos dizer que Web scraping não é ilegal por si só, mas deve-se ser usado
+etícamente.
+
+para consumir essas informações precisamos do site o mais semântico possível.
